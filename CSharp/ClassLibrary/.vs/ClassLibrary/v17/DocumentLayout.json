@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\RPG\\CSharp\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417E6FA8-EB20-465A-8EEE-A1CA6000D309}|ClassLibrary.csproj|c:\\dev\\rpg\\csharp\\classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417E6FA8-EB20-465A-8EEE-A1CA6000D309}|ClassLibrary.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417E6FA8-EB20-465A-8EEE-A1CA6000D309}|ClassLibrary.csproj|C:\\Dev\\RPG\\CSharp\\ClassLibrary\\csharptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417E6FA8-EB20-465A-8EEE-A1CA6000D309}|ClassLibrary.csproj|solutionrelative:csharptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dev\\RPG\\CSharp\\ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Dev\\RPG\\CSharp\\ClassLibrary\\Class1.cs*",
+              "RelativeToolTip": "Class1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:42:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSharpTest.cs",
+              "DocumentMoniker": "C:\\Dev\\RPG\\CSharp\\ClassLibrary\\CSharpTest.cs",
+              "RelativeDocumentMoniker": "CSharpTest.cs",
+              "ToolTip": "C:\\Dev\\RPG\\CSharp\\ClassLibrary\\CSharpTest.cs",
+              "RelativeToolTip": "CSharpTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T03:09:02.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

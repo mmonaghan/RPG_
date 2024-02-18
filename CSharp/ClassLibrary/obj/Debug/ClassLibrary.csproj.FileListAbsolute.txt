@@ -1,0 +1,6 @@
+C:\Dev\RPG\CSharp\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Dev\RPG\CSharp\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Dev\RPG\CSharp\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Dev\RPG\CSharp\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Dev\RPG\CSharp\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Dev\RPG\CSharp\ClassLibrary\obj\Debug\ClassLibrary.pdb
